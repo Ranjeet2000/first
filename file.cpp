@@ -1,1 +1,1 @@
-my name is arcit mahajan
+my name is arcit mahajan. I am studying CS.
